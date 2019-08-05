@@ -1,5 +1,7 @@
-package br.com.tabajaradigital.faturamento;
+package br.com.tabajaradigital.testes;
 
+import br.com.tabajaradigital.faturamento.Fatura;
+import br.com.tabajaradigital.faturamento.FaturaImp;
 import br.com.tabajaradigital.negocio.Cliente;
 import br.com.tabajaradigital.negocio.Operadora;
 import br.com.tabajaradigital.telefonia.PlanoPosPago;
